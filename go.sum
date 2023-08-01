@@ -1,0 +1,6 @@
+github.com/Callisto13/pugo/pure1 v0.0.0-20230801141821-740345f35f82 h1:Gc67FpZASlAQKSvVxi9xwxCckaaLMjmxvHv6Qc0FFLA=
+github.com/Callisto13/pugo/pure1 v0.0.0-20230801141821-740345f35f82/go.mod h1:o5INfgEo9mUeqC7jJWu5OnJgKLUPgbFyxjMgtzKbGrI=
+github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:7qlOGliEKZXTDg6OTjfoBKDXWrumCAMpl/TFQ4/5kLM=
+github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
+github.com/inhies/go-bytesize v0.0.0-20220417184213-4913239db9cf h1:FtEj8sfIcaaBfAKrE1Cwb61YDtYq9JxChK1c7AKce7s=
+github.com/inhies/go-bytesize v0.0.0-20220417184213-4913239db9cf/go.mod h1:yrqSXGoD/4EKfF26AOGzscPOgTTJcyAwM2rpixWT+t4=
